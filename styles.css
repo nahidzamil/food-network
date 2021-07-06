@@ -1,0 +1,57 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+#Nahid{
+    color: rgb(29, 0, 196);
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h4{
+    font-size: 40px;
+.orange-color{
+    color: orange;
+}
+#model-pic{
+    width: 70%;
+    padding-left: 20%;
+}
+#about-me{
+    width: 65%;
+    padding-left: 10%;
+}
+.middle-banner{
+    background-image: url(images/shapes/Frame58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(to right, rgb(0, 225, 255), rgb(0, 162, 255));
+    color: white;
+    border-radius: 50px;
+    font-weight: 500;
+       
+.flex-container{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.top-banner{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container{
+    padding: 5px 16px;
+}
