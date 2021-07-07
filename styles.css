@@ -2,7 +2,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 .orange-color{
     color: orange;
@@ -15,11 +15,26 @@ section{
     padding: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
-    background-color: orange;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, red);
     padding: 10px 40px;
-    border-radius: ;
+    border-radius: 10px;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#about-me{
+    width: 60%;
+}
+.flex-container{
+    display: flex;
+}
+.card-text{
+    width: max-content;
 }
