@@ -7,15 +7,12 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
-    display: flex;
-}
 .half-width{
     width: 50%;
     padding: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
@@ -36,5 +33,17 @@ section{
     display: flex;
 }
 .card-text{
-    width: max-content;
+    text-align: center;
+}
+.card{
+    margin: 30px 20px;
+    padding: 10px 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+}
+.container{
+    column-width: auto;
 }
