@@ -38,6 +38,7 @@ h1{
 .card{
     margin: 30px 20px;
     padding: 10px 10px;
+    width: 100%;
 }
 footer{
     text-align: center;
@@ -46,4 +47,10 @@ footer{
 }
 .container{
     column-width: auto;
+    border-radius: 10px;
+}
+.fpic{
+    border-radius: 20px;
+    width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
 }
